@@ -1,53 +1,49 @@
-jspm install async-stacktrace@0.0.2=npm:async-stacktrace@0.0.2
-jspm install babel-preset-es2015@^6.18.0=npm:babel-preset-es2015@^6.18.0
-jspm install continuation@^0.1.7=npm:continuation@^0.1.7
-jspm install fs-extra@^1.0.0=npm:fs-extra@^1.0.0
-jspm install commander=npm:commander
-jspm install git-archive@^0.1.4=npm:git-archive@^0.1.4
-jspm install gulp@^3.9.1=npm:gulp@^3.9.1
-jspm install gulp-babel@^6.1.2=npm:gulp-babel@^6.1.2
-jspm install gulp-continuation@^1.1.1=npm:gulp-continuation@^1.1.1
-jspm install gulp-debug@^2.1.2=npm:gulp-debug@^2.1.2
-jspm install gulp-footer@^1.0.5=npm:gulp-footer@^1.0.5
-jspm install gulp-header@^1.8.8=npm:gulp-header@^1.8.8
-jspm install gulp-include@^2.3.1=npm:gulp-include@^2.3.1
-jspm install gulp-inject-string@^1.1.0=npm:gulp-inject-string@^1.1.0
-jspm install gulp-insert@^0.5.0=npm:gulp-insert@^0.5.0
-jspm install gulp-insert-lines@0.0.4=npm:gulp-insert-lines@0.0.4
-jspm install gulp-replace@^0.5.4=npm:gulp-replace@^0.5.4
-jspm install gulp-sequence@^0.4.6=npm:gulp-sequence@^0.4.6
-jspm install gulp-yarn@0.0.5=npm:gulp-yarn@0.0.5
-jspm install js-yaml@^3.7.0=npm:js-yaml@^3.7.0
-jspm install object-merge-override@^0.1.0=npm:object-merge-override@^0.1.0
-jspm install serialfs@0.0.22=npm:serialfs@0.0.22
-jspm install shebang-loader@0.0.1=npm:shebang-loader@0.0.1
-jspm install string-template@^1.0.0=npm:string-template@^1.0.0
-jspm install tap-difflet@^0.7.0=npm:tap-difflet@^0.7.0
-jspm install tape@^4.6.3=npm:tape@^4.6.3
-jspm install tar-fs@^1.15.0=npm:tar-fs@^1.15.0
-jspm install tarball-extract@0.0.3=npm:tarball-extract@0.0.3
-jspm install try-thread-sleep@^1.0.0=npm:try-thread-sleep@^1.0.0
-jspm install user-home@^2.0.0=npm:user-home@^2.0.0
-jspm install vargs-callback@^0.2.4=npm:vargs-callback@^0.2.4
-jspm install vinyl-transform@^1.0.0=npm:vinyl-transform@^1.0.0
-jspm install webpack-node-externals@^1.5.4=npm:webpack-node-externals@^1.5.4
-jspm install webpack-stream@^3.2.0=npm:webpack-stream@^3.2.0
-jspm install word-wrap@^1.1.0=npm:word-wrap@^1.1.0
-jspm install npm:strip-comments
-jspm install npm:kind-of
-jspm install smf-deep-diff
-jspm install npm:babylon
-jspm install npm:esprima
-jspm install npm:babel-literal-to-ast
-jspm install npm:espree
-jspm install npm:babel-plugin-transform-es2015-arrow-functions
-jspm install npm:babel
-jspm install npm:babel-core
-jspm install npm:yamljs
-jspm install npm:json2yaml
-jspm install npm:wordwrap
-jspm install npm:acorn
-jspm install npm:astring
-jspm install npm:escodegen
-jspm install npm:babel-generate
-jspm install npm:babel-generator
+node node_modules/jspm/cli.js install async-stacktrace@0.0.2=npm:async-stacktrace@0.0.2
+node node_modules/jspm/cli.js install babel-preset-es2015@^6.18.0=npm:babel-preset-es2015@^6.18.0
+node node_modules/jspm/cli.js install continuation@^0.1.7=npm:continuation@^0.1.7
+node node_modules/jspm/cli.js install fs-extra@^1.0.0=npm:fs-extra@^1.0.0
+node node_modules/jspm/cli.js install commander=npm:commander
+node node_modules/jspm/cli.js install git-archive@^0.1.4=npm:git-archive@^0.1.4
+node node_modules/jspm/cli.js install gulp@^3.9.1=npm:gulp@^3.9.1
+node node_modules/jspm/cli.js install gulp-babel@^6.1.2=npm:gulp-babel@^6.1.2
+node node_modules/jspm/cli.js install gulp-continuation@^1.1.1=npm:gulp-continuation@^1.1.1
+node node_modules/jspm/cli.js install gulp-debug@^2.1.2=npm:gulp-debug@^2.1.2
+node node_modules/jspm/cli.js install gulp-footer@^1.0.5=npm:gulp-footer@^1.0.5
+node node_modules/jspm/cli.js install gulp-header@^1.8.8=npm:gulp-header@^1.8.8
+node node_modules/jspm/cli.js install gulp-include@^2.3.1=npm:gulp-include@^2.3.1
+node node_modules/jspm/cli.js install gulp-inject-string@^1.1.0=npm:gulp-inject-string@^1.1.0
+node node_modules/jspm/cli.js install gulp-insert@^0.5.0=npm:gulp-insert@^0.5.0
+node node_modules/jspm/cli.js install gulp-insert-lines@0.0.4=npm:gulp-insert-lines@0.0.4
+node node_modules/jspm/cli.js install gulp-replace@^0.5.4=npm:gulp-replace@^0.5.4
+node node_modules/jspm/cli.js install gulp-sequence@^0.4.6=npm:gulp-sequence@^0.4.6
+node node_modules/jspm/cli.js install gulp-yarn@0.0.5=npm:gulp-yarn@0.0.5
+node node_modules/jspm/cli.js install js-yaml@^3.7.0=npm:js-yaml@^3.7.0
+node node_modules/jspm/cli.js install object-merge-override@^0.1.0=npm:object-merge-override@^0.1.0
+node node_modules/jspm/cli.js install serialfs@0.0.22=npm:serialfs@0.0.22
+node node_modules/jspm/cli.js install shebang-loader@0.0.1=npm:shebang-loader@0.0.1
+node node_modules/jspm/cli.js install string-template@^1.0.0=npm:string-template@^1.0.0
+node node_modules/jspm/cli.js install tap-difflet@^0.7.0=npm:tap-difflet@^0.7.0
+node node_modules/jspm/cli.js install tape@^4.6.3=npm:tape@^4.6.3
+node node_modules/jspm/cli.js install tar-fs@^1.15.0=npm:tar-fs@^1.15.0
+node node_modules/jspm/cli.js install tarball-extract@0.0.3=npm:tarball-extract@0.0.3
+node node_modules/jspm/cli.js install try-thread-sleep@^1.0.0=npm:try-thread-sleep@^1.0.0
+node node_modules/jspm/cli.js install user-home@^2.0.0=npm:user-home@^2.0.0
+node node_modules/jspm/cli.js install vargs-callback@^0.2.4=npm:vargs-callback@^0.2.4
+node node_modules/jspm/cli.js install vinyl-transform@^1.0.0=npm:vinyl-transform@^1.0.0
+node node_modules/jspm/cli.js install webpack-node-externals@^1.5.4=npm:webpack-node-externals@^1.5.4
+node node_modules/jspm/cli.js install webpack-stream@^3.2.0=npm:webpack-stream@^3.2.0
+node node_modules/jspm/cli.js install word-wrap@^1.1.0=npm:word-wrap@^1.1.0
+node node_modules/jspm/cli.js install npm:strip-comments
+node node_modules/jspm/cli.js install npm:kind-of
+node node_modules/jspm/cli.js install smf-deep-diff
+node node_modules/jspm/cli.js install npm:babylon
+node node_modules/jspm/cli.js install npm:esprima
+node node_modules/jspm/cli.js install npm:babel-literal-to-ast
+node node_modules/jspm/cli.js install npm:espree
+node node_modules/jspm/cli.js install npm:babel-plugin-transform-es2015-arrow-functions
+node node_modules/jspm/cli.js install npm:babel
+node node_modules/jspm/cli.js install npm:babel-core
+node node_modules/jspm/cli.js install npm:yamljs
+node node_modules/jspm/cli.js install npm:json2yaml
+node node_modules/jspm/cli.js install npm:wordwrap
+>>>>>>> dd73a361f091b6feedeadc1d180aaf862fd6c611
