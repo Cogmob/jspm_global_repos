@@ -46,3 +46,8 @@ jspm install npm:babel-core
 jspm install npm:yamljs
 jspm install npm:json2yaml
 jspm install npm:wordwrap
+jspm install npm:acorn
+jspm install npm:astring
+jspm install npm:escodegen
+jspm install npm:babel-generate
+jspm install npm:babel-generator
