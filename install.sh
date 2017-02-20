@@ -46,4 +46,4 @@ node node_modules/jspm/cli.js install npm:babel-core
 node node_modules/jspm/cli.js install npm:yamljs
 node node_modules/jspm/cli.js install npm:json2yaml
 node node_modules/jspm/cli.js install npm:wordwrap
->>>>>>> dd73a361f091b6feedeadc1d180aaf862fd6c611
+node node_modules/jspm/cli.js install npm:glob
