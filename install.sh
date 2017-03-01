@@ -47,3 +47,5 @@ node node_modules/jspm/cli.js install npm:yamljs
 node node_modules/jspm/cli.js install npm:json2yaml
 node node_modules/jspm/cli.js install npm:wordwrap
 node node_modules/jspm/cli.js install npm:glob
+jspm install npm:import-glob
+jspm install npm:babel-loader
