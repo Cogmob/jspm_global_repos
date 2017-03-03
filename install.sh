@@ -49,3 +49,4 @@ node node_modules/jspm/cli.js install npm:wordwrap
 node node_modules/jspm/cli.js install npm:glob
 jspm install npm:import-glob
 jspm install npm:babel-loader
+node node_modules/jspm/cli.js install npm:optional
