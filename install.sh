@@ -71,3 +71,8 @@
 ./node_modules/.bin/jspm install 'npm:webpack@2.2'
 ./node_modules/.bin/jspm install 'npm:webpack@2.2.1'
 ./node_modules/.bin/jspm install 'npm:ramda'
+./node_modules/.bin/jspm install 'npm:async'
+./node_modules/.bin/jspm install 'js-yaml@3.8.1=npm:js-yaml@3.8.1'
+./node_modules/.bin/jspm install 'npm:smf-deep-diff'
+./node_modules/.bin/jspm install 'npm:acorn'
+./node_modules/.bin/jspm install 'npm:astring'
