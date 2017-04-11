@@ -76,3 +76,5 @@
 ./node_modules/.bin/jspm install 'npm:smf-deep-diff'
 ./node_modules/.bin/jspm install 'npm:acorn'
 ./node_modules/.bin/jspm install 'npm:astring'
+./node_modules/.bin/jspm install 'npm:yaml-loader'
+./node_modules/.bin/jspm install 'npm:yml-loader'
