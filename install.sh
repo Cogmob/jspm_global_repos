@@ -78,3 +78,7 @@
 ./node_modules/.bin/jspm install 'npm:astring'
 ./node_modules/.bin/jspm install 'npm:yaml-loader'
 ./node_modules/.bin/jspm install 'npm:yml-loader'
+./node_modules/.bin/jspm install 'npm:serialfs'
+./node_modules/.bin/jspm install 'npm:glob-promise'
+./node_modules/.bin/jspm install 'npm:read-files-promise'
+./node_modules/.bin/jspm install 'npm:underscore'
