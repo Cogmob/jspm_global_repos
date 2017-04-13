@@ -82,3 +82,8 @@
 ./node_modules/.bin/jspm install 'npm:glob-promise'
 ./node_modules/.bin/jspm install 'npm:read-files-promise'
 ./node_modules/.bin/jspm install 'npm:underscore'
+./node_modules/.bin/jspm install 'npm:lodash'
+./node_modules/.bin/jspm install 'npm:marked'
+./node_modules/.bin/jspm install 'npm:marked-terminal'
+./node_modules/.bin/jspm install 'npm:colors'
+./node_modules/.bin/jspm install 'npm:bash-color'
