@@ -87,3 +87,4 @@
 ./node_modules/.bin/jspm install 'npm:marked-terminal'
 ./node_modules/.bin/jspm install 'npm:colors'
 ./node_modules/.bin/jspm install 'npm:bash-color'
+./node_modules/.bin/jspm install 'npm:bluebird'
