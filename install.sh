@@ -88,3 +88,5 @@
 ./node_modules/.bin/jspm install 'npm:colors'
 ./node_modules/.bin/jspm install 'npm:bash-color'
 ./node_modules/.bin/jspm install 'npm:bluebird'
+./node_modules/.bin/jspm install 'npm:color-terminal'
+./node_modules/.bin/jspm install 'npm:chalk'
