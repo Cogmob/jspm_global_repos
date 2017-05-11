@@ -90,3 +90,4 @@
 ./node_modules/.bin/jspm install 'npm:bluebird'
 ./node_modules/.bin/jspm install 'npm:color-terminal'
 ./node_modules/.bin/jspm install 'npm:chalk'
+./node_modules/.bin/jspm install 'npm:raw-text-loader'
